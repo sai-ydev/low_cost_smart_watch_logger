@@ -1,4 +1,7 @@
 (sym_lib_table
   (version 7)
   (lib (name "MAX30205MTA_")(type "KiCad")(uri "C:/Users/yaman/OneDrive/Documents/KiCADLibraries/MAX30205MTA_/MAX30205MTA_.kicad_sym")(options "")(descr ""))
+  (lib (name "K2-1114SA-A4SW-06")(type "EasyEDA (JLCEDA) Pro")(uri "C:/Users/yaman/Downloads/K2-1114SA-A4SW-06.elibz")(options "")(descr ""))
+  (lib (name "Sr2HARU")(type "EasyEDA (JLCEDA) Pro")(uri "C:/Users/yaman/Downloads/Sr2HARU.elibz")(options "")(descr ""))
+  (lib (name "PCA9500BS")(type "Legacy")(uri "${KIPRJMOD}/PCA9500BS/PCA9500BS.lib")(options "")(descr ""))
 )

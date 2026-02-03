@@ -1,0 +1,52 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# pca9500_symbol2_PCA9500BS_8_bit_I2C_bus_and_SMBus_I_O_port_with_2_kbit_EEPROM
+#
+DEF pca9500_symbol2_PCA9500BS_8_bit_I2C_bus_and_SMBus_I_O_port_with_2_kbit_EEPROM U 0 40 N N 1 F N
+F0 "U" -100 150 50 H V C CNN
+F1 "pca9500_symbol2_PCA9500BS_8_bit_I2C_bus_and_SMBus_I_O_port_with_2_kbit_EEPROM" 0 -150 50 H V C CNN
+$FPLIST
+SOT*
+SG-*
+$ENDFPLIST
+DRAW
+S -450 -450 450 450 0 1 10 N
+T 0 -425 160 48 0 0 0 "A2" Normal 0 L B
+T 0 -425 60 48 0 0 0 "IO0" Normal 0 L B
+T 0 -425 -40 48 0 0 0 "IO1" Normal 0 L B
+T 0 -425 -140 48 0 0 0 "IO2" Normal 0 L B
+T 900 -180 -435 48 0 0 0 "IO3" Normal 0 L T
+T 900 -80 -435 48 0 0 0 "VSS" Normal 0 L T
+T 900 20 -435 48 0 0 0 "IO4" Normal 0 L T
+T 900 120 -435 48 0 0 0 "IO5" Normal 0 L T
+T 0 425 -140 48 0 0 0 "IO6" Normal 0 R B
+T 0 425 -40 48 0 0 0 "IO7" Normal 0 R B
+T 0 425 60 48 0 0 0 "WC" Normal 0 R B
+T 0 425 160 48 0 0 0 "SCL" Normal 0 R B
+T 900 180 440 48 0 0 0 "SDA" Normal 0 R B
+T 900 80 440 48 0 0 0 "VDD" Normal 0 R B
+T 900 -20 440 48 0 0 0 "A0" Normal 0 R B
+T 900 -120 440 48 0 0 0 "A1" Normal 0 R B
+X ~ 1 -550 150 100 R 40 40 1 1 P 
+X ~ 2 -550 50 100 R 40 40 1 1 P 
+X ~ 3 -550 -50 100 R 40 40 1 1 P 
+X ~ 4 -550 -150 100 R 40 40 1 1 P 
+X ~ 5 -150 -550 95 U 40 40 1 1 P 
+X ~ 6 -50 -550 95 U 40 40 1 1 P 
+X ~ 7 50 -550 95 U 40 40 1 1 P 
+X ~ 8 150 -550 95 U 40 40 1 1 P 
+X ~ 9 550 -150 95 L 40 40 1 1 P 
+X ~ 10 550 -50 95 L 40 40 1 1 P 
+X ~ 11 550 50 95 L 40 40 1 1 P 
+X ~ 12 550 150 95 L 40 40 1 1 P 
+X ~ 13 150 550 100 D 40 40 1 1 P 
+X ~ 14 50 550 100 D 40 40 1 1 P 
+X ~ 15 -50 550 100 D 40 40 1 1 P 
+X ~ 16 -150 550 100 D 40 40 1 1 P 
+
+ENDDRAW
+ENDDEF
+
+#
+#End Library

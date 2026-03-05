@@ -2262,9 +2262,9 @@
 			(uuid "da109c16-a946-47f1-8372-3b3e0b5ec855")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/EASYEDA_MODELS/KEY-SMD_4P-L4.8-W4.6-P1.70-LS6.2.step"
+		(model "C:/Users/yaman/Documents/Kicad/easyeda2kicad/easyeda2kicad.3dshapes/KEY-SMD_4P-L4.8-W4.6-P1.70-LS6.2.step"
 			(offset
-				(xyz 0 -0.3 -0.5)
+				(xyz 0 0.2 1.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -2701,7 +2701,7 @@
 			(uuid "760d604e-7361-41fc-a99c-aa832ff5a331")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/EASYEDA_MODELS/UDFN-6_L1.6-W1.3-P0.40-TL.step"
+		(model "C:/Users/yaman/Documents/Kicad/easyeda2kicad/easyeda2kicad.3dshapes/UDFN-6_L1.6-W1.3-P0.40-TL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3393,9 +3393,9 @@
 			(uuid "964329fe-fa97-4945-a43e-141c385e5080")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/EASYEDA_MODELS/KEY-SMD_4P-L4.8-W4.6-P1.70-LS6.2.step"
+		(model "C:/Users/yaman/Documents/Kicad/easyeda2kicad/easyeda2kicad.3dshapes/KEY-SMD_4P-L4.8-W4.6-P1.70-LS6.2.step"
 			(offset
-				(xyz 0 -0.3 -0.5)
+				(xyz 0 0.2 1.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -6393,6 +6393,17 @@
 			(uuid "00970deb-318f-4733-918a-40553e6769bc")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/yaman/OneDrive/Documents/KiCADLibraries/532610271/532610271.step"
+			(offset
+				(xyz 0 -1.5 1)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 180)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -7229,9 +7240,9 @@
 			(uuid "4878a9db-e14c-4681-b170-ddc82f878e86")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/EASYEDA_MODELS/KEY-SMD_4P-L4.8-W4.6-P1.70-LS6.2.step"
+		(model "C:/Users/yaman/Documents/Kicad/easyeda2kicad/easyeda2kicad.3dshapes/KEY-SMD_4P-L4.8-W4.6-P1.70-LS6.2.step"
 			(offset
-				(xyz 0 -0.3 -0.5)
+				(xyz 0 0.2 1.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -8853,9 +8864,9 @@
 			(uuid "b3b771e4-4eb5-4680-a0b2-1c8a537bef3e")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/EASYEDA_MODELS/KEY-SMD_4P-L4.8-W4.6-P1.70-LS6.2.step"
+		(model "C:/Users/yaman/Documents/Kicad/easyeda2kicad/easyeda2kicad.3dshapes/KEY-SMD_4P-L4.8-W4.6-P1.70-LS6.2.step"
 			(offset
-				(xyz 0 -0.3 -0.5)
+				(xyz 0 0.2 1.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -11026,7 +11037,7 @@
 			(uuid "723509d6-fb97-43ff-aa28-7dd6e0e8570a")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/OptoDevice.3dshapes/Maxim_OLGA-14_3.3x5.6mm_P0.8mm.step"
+		(model "C:/Users/yaman/OneDrive/Documents/KiCad/9.0/3dmodels/MAX30102EFD+T.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11034,7 +11045,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -13059,6 +13070,17 @@
 			(uuid "dc2a9505-c3bc-46f4-b4ef-d3919a3a5780")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/yaman/OneDrive/Documents/KiCADLibraries/MAX30205MTA_/MAX30205MTA_.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "SparkFun-Resistor:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -17137,6 +17159,17 @@
 			(uuid "05b1c0f6-8e64-4ec1-b8d2-9e0a0f2af4c7")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/yaman/OneDrive/Documents/KiCADLibraries/LSM6DS3TR-C/LSM6DS3TR-C.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "SparkFun-Capacitor:C_0402_1005Metric"
 		(layer "F.Cu")
@@ -19009,15 +19042,15 @@
 			(uuid "99af0664-aa86-4113-9226-cce7ca370b77")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Micro-B_Amphenol_10103594-0001LF_Horizontal.step"
+		(model "C:/Users/yaman/OneDrive/Documents/KiCad/9.0/3dmodels/s10103594/10103594.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 0.5 2.25)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz 90 -0 180)
 			)
 		)
 	)
@@ -20522,6 +20555,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "C:/Users/yaman/OneDrive/Documents/KiCad/9.0/3dmodels/ESP32-C6-MINI-1-N4.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "RV-8803-C7-32.768KHZ-3PPM-TA-QC:IC_RV-8803-C7-32.768KHZ-3PPM-TA-QC"
 		(layer "F.Cu")
@@ -20917,6 +20961,17 @@
 			(uuid "d0b26323-4da3-4498-8433-f0e9bbaa0920")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/yaman/OneDrive/Documents/KiCADLibraries/RV-8803-C7-32.768KHZ-3PPM-TA-QC/RV-8803-C7-32.768KHZ-3PPM-TA-QC.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "LED_SMD:LED_0402_1005Metric"
 		(layer "F.Cu")
